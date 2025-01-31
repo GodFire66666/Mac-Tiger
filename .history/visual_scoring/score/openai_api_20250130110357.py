@@ -1,8 +1,8 @@
 import openai
 import time, sys
 
-api_key = 'sk-xxx'
-api_base = 'xxx'
+api_key = 'sk-M5ppriS3vTYSiwFn3c58Af766d7c4956B4EcEc36888a1c2b'
+api_base = 'https://ai98.vip/v1'
 
 
 def openai_completion(prompt, engine="gpt-4o", max_tokens=700, temperature=0):
